@@ -13,4 +13,5 @@ To tap this repository, run the following:
 
 To install any one of these, run `brew install a5huynh/<name>`
 
-* [cub-cli](https://github.com/a5huynh/cub-cli) (command-line utility for Bear)
+* [cub-cli](https://github.com/a5huynh/cub-cli) - Command-line utility for Bear
+* [zasm](https://k1.spdns.de/Develop/Projects/zasm/) - A command-line assembler for the Zilog Z80 cpu
