@@ -8,3 +8,9 @@ To tap this repository, run the following:
     # Example application install
     brew install a5huynh/cub-cli
 
+
+## Formula available for installation
+
+To install any one of these, run `brew install a5huynh/<name>`
+
+* [cub-cli](https://github.com/a5huynh/cub-cli) (command-line utility for Bear)
