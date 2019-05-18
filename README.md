@@ -6,7 +6,7 @@ To tap this repository, run the following:
     brew tap a5huynh/brew
 
     # Example application install
-    brew install a5huynh/cub-cli
+    brew install a5huynh/brew/cub-cli
 
 
 ## Formula available for installation
