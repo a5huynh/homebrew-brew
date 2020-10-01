@@ -1,8 +1,8 @@
 class CubCli < Formula
   desc "A CLI for the Bear Writer application"
   homepage "https://github.com/a5huynh/cub-cli"
-  url "https://github.com/a5huynh/cub-cli/releases/download/0.3.2/cub"
-  sha256 "3b0d4334262266e3eb92ca64a14c89d6beedff3e4180b6bd9ff739be97841857"
+  url "https://github.com/a5huynh/cub-cli/releases/download/0.3.3/cub"
+  sha256 "b434a4252c81b3a39864f08458b9f18a95ceb9815a89a92d2eda2fa6ce65832e"
 
   def install
     bin.install "cub"
